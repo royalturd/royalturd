@@ -16,6 +16,9 @@
 <a href="https://t.me/Royal_Turd" target="_blank">
   <img align="left" alt="Rudra's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.behance.net/pixelatedj1fe8" target="_blank">
+  <img align="left" alt="Rudra's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
 <br />
 
 
