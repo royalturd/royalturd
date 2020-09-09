@@ -1,7 +1,7 @@
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=PratyakshM"></h2>
  
-<a href="mailto:hello.samridhh.rudra@hotmail.com" target="_blank">
+<a href="mailto:samridhh.rudra@hotmail.com" target="_blank">
   <img align="left" alt="royalturd's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/royalturd" target="_blank">
