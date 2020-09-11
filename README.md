@@ -21,6 +21,8 @@
 </a>
 <br />
 
+### Happy to have you here! ☺️
+
 
 [![royalturd's github stats](https://github-readme-stats.vercel.app/api?username=royalturd)](https://github.com/royalturd)  
 
