@@ -1,5 +1,11 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> 
 <img src="https://komarev.com/ghpvc/?username=royalturd"></h2>
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I'm a Computer Science undergrad at Amrapali Group of Institutes Haldwani, Uttarakhand.
+- 📚 I’m currently learning  Python, C# and Bash
+- 💖 I like automating things. 
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djustaprudev&longCache=true)](https://github.com/royalturd)
 ### Happy to have you here! ☺️
 &nbsp;
