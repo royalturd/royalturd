@@ -1,5 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> 
 <img src="https://komarev.com/ghpvc/?username=royalturd"></h2>
+
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I'm a Computer Science undergrad at Amrapali Group of Institutes Haldwani, Uttarakhand.
